@@ -1,2 +1,1 @@
-# WAYC-Resources
-Public resources used on a private project im currently building.
+Public resources used on a soon to be released project. 
